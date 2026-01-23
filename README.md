@@ -1,127 +1,72 @@
-# Hi there, I'm [Your Name] 👋🤖
+# Hi there, I'm [Your Name]
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Third-Year+University+Student;Robotics+Enthusiast;Passionate+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
-  
-</div>
+A junior student majoring in Artificial Intelligence, currently interning as an embedded software engineer. Focused on developing robot control systems.
 
-## 🎓 About Me
+大三人工智能专业在读学生，目前担任嵌入式软件实习生。致力于机器人控制系统开发。
 
-I'm a third-year university student passionate about robotics and automation. I love building things that move, think, and interact with the world!
+## 🛠️ Technical Stack / 技术栈
 
-- 🔭 Currently working on: **[Your Current Robotics Project]**
-- 🌱 Learning: **ROS2, Computer Vision, Machine Learning for Robotics**
-- 🤖 Interests: **Autonomous Systems, Robotic Manipulation, SLAM, Path Planning**
-- 🎯 2024 Goals: **Contribute to open-source robotics projects & build an autonomous robot**
-- 💬 Ask me about: **Arduino, Raspberry Pi, Robot Operating System (ROS)**
-- 📫 Reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **I've built [X] robots and counting!**
+### Programming Languages / 编程语言
+[![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
-## 🛠️ Technologies & Tools
+### Embedded Systems / 嵌入式系统
+[![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32.html) 
+[![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32) 
+[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A3E0?style=for-the-badge&logo=freertos&logoColor=white)](https://www.freertos.org/) 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-### Robotics & Hardware
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+### Robotics / 机器人学
+[![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/) 
+[![Webots](https://img.shields.io/badge/Webots-00A1D6?style=for-the-badge&logo=webots&logoColor=white)](https://cyberbotics.com/) 
+[![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=mujoco&logoColor=white)](https://mujoco.org/)
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Hardware Design / 硬件设计
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-0096E0?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/) 
+[![Altium Designer](https://img.shields.io/badge/Altium%20Designer-123456?style=for-the-badge&logo=altium&logoColor=white)](https://www.altium.com/altium-designer/) 
+[![JLCPCB EDA](https://img.shields.io/badge/JLCPCB%20EDA-FF6B6B?style=for-the-badge&logo=jlcpcb&logoColor=white)](https://easyeda.com/)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Additional Tools / 其他工具
+[![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)](https://git-scm.com/) 
+[![Markdown](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown)](https://www.markdownguide.org/)
 
-### Simulation & Design
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+## 📚 Personal Projects / 个人项目
 
-## 🤖 Robotics Projects
+### [Project Name 1] / [项目名称1]
+**Description / 描述**: [A brief description of your project, e.g., A RESTful API service providing complete user authentication and task management.]
 
-### 🔹 [Project Name 1](link-to-repo)
-Brief description of your robotics project. Mention key technologies used.
-- **Tech Stack**: ROS, Python, OpenCV
-- **Highlights**: Autonomous navigation, Object detection
+**Tech Stack / 技术栈**: [e.g., Node.js, Express, MongoDB, JWT]
 
-### 🔹 [Project Name 2](link-to-repo)
-Brief description of another project.
-- **Tech Stack**: Arduino, C++, Sensors
-- **Highlights**: Real-time control, Motor control
+**Link / 链接**: [Project Repository or Demo Link]
 
-### 🔹 [Project Name 3](link-to-repo)
-Brief description of a third project.
-- **Tech Stack**: Raspberry Pi, Python, ML
-- **Highlights**: Machine learning, Computer vision
+### [Project Name 2] / [项目名称2]
+**Description / 描述**: [A brief description of your project, e.g., A responsive static blog built with modern frontend frameworks, supporting dark mode.]
 
-## 📊 GitHub Stats
+**Tech Stack / 技术栈**: [e.g., Vue 3, Vite, Tailwind CSS]
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight&hide_border=true)
-  
-</div>
+**Link / 链接**: [Project Repository or Demo Link]
 
-## 🎯 Current Focus
+### [Project Name 3] / [项目名称3]
+**Description / 描述**: [A brief description of your project, e.g., An embedded system for intelligent home automation using ESP32.]
 
-```python
-class RoboticsStudent:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Robotics Enthusiast & Developer"
-        self.education = "3rd Year University Student"
-        self.interests = ["Autonomous Systems", "Computer Vision", "AI/ML"]
-        
-    def current_projects(self):
-        return [
-            "Building an autonomous navigation robot",
-            "Learning ROS2 and advanced control systems",
-            "Exploring SLAM algorithms"
-        ]
-    
-    def current_goals(self):
-        return [
-            "Contribute to open-source robotics projects",
-            "Complete personal robot project",
-            "Learn more about AI for robotics"
-        ]
-```
+**Tech Stack / 技术栈**: [e.g., ESP32, C++, FreeRTOS, MQTT]
 
-## 🌐 Connect With Me
+**Link / 链接**: [Project Repository or Demo Link]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+## 📊 GitHub Stats / GitHub统计
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title 1](link)
-- [Your Blog Post Title 2](link)
-- [Your Blog Post Title 3](link)
-<!-- BLOG-POST-LIST:END -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)](https://github.com/[your-username])
 
-## 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)](https://github.com/[your-username])
+
+## 📫 Contact Me / 联系方式
+
+- **Email / 邮箱**: pengqixiao@email.ncu.edu.cn
+- **GitHub**: [https://github.com/[your-username]]
 
 ---
 
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/[your-username]/count.svg)
-  
-  *"The best way to predict the future is to invent it."* - Alan Kay
-  
-  ⭐️ From [[your-username]](https://github.com/[your-username])
-  
-</div>
+*"The only way to do great work is to love what you do." - Steve Jobs*
+
+*"成就伟大工作的唯一方法是热爱你所做的事情。" - 史蒂夫·乔布斯*
