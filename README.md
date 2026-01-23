@@ -64,11 +64,11 @@ Brief description of a third project.
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pqxiao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pqxiao&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pqxiao&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight&hide_border=true)
   
 </div>
 
@@ -89,7 +89,7 @@ class RoboticsStudent:
             "Exploring SLAM algorithms"
         ]
     
-    def goals_2024(self):
+    def current_goals(self):
         return [
             "Contribute to open-source robotics projects",
             "Complete personal robot project",
@@ -118,10 +118,10 @@ class RoboticsStudent:
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/pqxiao/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/[your-username]/count.svg)
   
   *"The best way to predict the future is to invent it."* - Alan Kay
   
-  ⭐️ From [pqxiao](https://github.com/pqxiao)
+  ⭐️ From [[your-username]](https://github.com/[your-username])
   
 </div>
