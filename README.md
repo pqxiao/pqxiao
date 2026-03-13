@@ -7,25 +7,26 @@ A junior student majoring in Artificial Intelligence, currently interning as an 
 ## 🛠️ Technical Stack / 技术栈
 
 ### Programming Languages / 编程语言
-[![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
 ### Embedded Systems / 嵌入式系统
-[![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32.html) 
-[![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32) 
-[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A3E0?style=for-the-badge&logo=freertos&logoColor=white)](https://www.freertos.org/) 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32.html)
+[![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A3E0?style=flat-square&logo=freertos&logoColor=white)](https://www.freertos.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ### Robotics / 机器人学
-[![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/) 
-[![Webots](https://img.shields.io/badge/Webots-00A1D6?style=for-the-badge&logo=webots&logoColor=white)](https://cyberbotics.com/) 
-[![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=mujoco&logoColor=white)](https://mujoco.org/)
+[![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)](https://www.ros.org/)
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/en/rolling/)
+[![Webots](https://img.shields.io/badge/Webots-00A1D6?style=flat-square&logo=webots&logoColor=white)](https://cyberbotics.com/)
+[![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=flat-square&logo=mujoco&logoColor=white)](https://mujoco.org/)
 
 ### Hardware Design / 硬件设计
-[![SolidWorks](https://img.shields.io/badge/SolidWorks-0096E0?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/) 
-[![Altium Designer](https://img.shields.io/badge/Altium%20Designer-123456?style=for-the-badge&logo=altium&logoColor=white)](https://www.altium.com/altium-designer/) 
-[![JLCPCB EDA](https://img.shields.io/badge/JLCPCB%20EDA-FF6B6B?style=for-the-badge&logo=jlcpcb&logoColor=white)](https://easyeda.com/)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
+[![Altium Designer](https://img.shields.io/badge/Altium%20Designer-123456?style=flat-square&logo=altium&logoColor=white)](https://www.altium.com/altium-designer/)
+[![LCEDA](https://img.shields.io/badge/LCEDA-FF6B6B?style=flat-square&logo=easyeda&logoColor=white)](https://lceda.cn/)
 
 ### Additional Tools / 其他工具
 [![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)](https://git-scm.com/) 
@@ -56,14 +57,14 @@ A junior student majoring in Artificial Intelligence, currently interning as an 
 
 ## 📊 GitHub Stats / GitHub统计
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)](https://github.com/[your-username])
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)](https://github.com/[your-username])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&width=400)](https://github.com/[your-username])
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical&width=250)](https://github.com/[your-username])
 
 ## 📫 Contact Me / 联系方式
 
-- **Email / 邮箱**: pengqixiao@email.ncu.edu.cn
-- **GitHub**: [https://github.com/[your-username]]
+[![Email](https://img.shields.io/badge/Email-pengqixiao@email.ncu.edu.cn-c?&style=flat-square&logo=gmail&logoColor=white)](mailto:pengqixiao@email.ncu.edu.cn)
+[![GitHub](https://img.shields.io/badge/GitHub-[your--username]?-c?&style=flat-square&logo=github&logoColor=white)](https://github.com/[your-username])
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-[your--username].github.io-c?&style=flat-square&logo=github&logoColor=white)](https://[your-username].github.io)
 
 ---
 
