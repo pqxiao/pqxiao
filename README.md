@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]
+# Hi , I'm Daniel
 
 A junior student majoring in Artificial Intelligence, currently interning as an embedded software engineer. Focused on developing robot control systems.
 
@@ -34,40 +34,20 @@ A junior student majoring in Artificial Intelligence, currently interning as an 
 
 ## 📚 Personal Projects / 个人项目
 
-### [Project Name 1] / [项目名称1]
-**Description / 描述**: [A brief description of your project, e.g., A RESTful API service providing complete user authentication and task management.]
+### [NCU_RC_2024_Volleyball / NCU Robocon 2024 排球挑战赛下位机代码](https://github.com/pqxiao/NCU_RC_2024_Volleyball)
+**Description / 描述**: Project for NCU Robocon 2024 Volleyball Challenge robot, including chassis control and Delta parallel arm control. It coordinates omnidirectional movement, vision tracking, and cushion ball task execution under a real-time control architecture.
 
-**Tech Stack / 技术栈**: [e.g., Node.js, Express, MongoDB, JWT]
-
-**Link / 链接**: [Project Repository or Demo Link]
-
-### [Project Name 2] / [项目名称2]
-**Description / 描述**: [A brief description of your project, e.g., A responsive static blog built with modern frontend frameworks, supporting dark mode.]
-
-**Tech Stack / 技术栈**: [e.g., Vue 3, Vite, Tailwind CSS]
-
-**Link / 链接**: [Project Repository or Demo Link]
-
-### [Project Name 3] / [项目名称3]
-**Description / 描述**: [A brief description of your project, e.g., An embedded system for intelligent home automation using ESP32.]
-
-**Tech Stack / 技术栈**: [e.g., ESP32, C++, FreeRTOS, MQTT]
-
-**Link / 链接**: [Project Repository or Demo Link]
+> **Check out [my GitHub Repositories](https://github.com/pqxiao?tab=repositories) for full source code and detailed documentation.**
 
 ## 📊 GitHub Stats / GitHub统计
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&width=400)](https://github.com/[your-username])
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical&width=250)](https://github.com/[your-username])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pqxiao&show_icons=true&theme=radical&width=400)](https://github.com/pqxiao)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pqxiao&layout=compact&theme=radical&width=250)](https://github.com/pqxiao)
 
 ## 📫 Contact Me / 联系方式
 
 [![Email](https://img.shields.io/badge/Email-pengqixiao@email.ncu.edu.cn-c?&style=flat-square&logo=gmail&logoColor=white)](mailto:pengqixiao@email.ncu.edu.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-[your--username]?-c?&style=flat-square&logo=github&logoColor=white)](https://github.com/[your-username])
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-[your--username].github.io-c?&style=flat-square&logo=github&logoColor=white)](https://[your-username].github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-pqxiao-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pqxiao)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-pqxiao.github.io-222222?style=flat-square&logo=github&logoColor=white)](https://pqxiao.github.io)
 
 ---
-
-*"The only way to do great work is to love what you do." - Steve Jobs*
-
-*"成就伟大工作的唯一方法是热爱你所做的事情。" - 史蒂夫·乔布斯*
