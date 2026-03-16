@@ -5,7 +5,7 @@ A third-year Artificial Intelligence student and semi-retired [RCer](http://robo
 <details>
 <summary><strong>Chinese Version (Click to expand)</strong></summary>
 <br>
-人工智能专业大三在读，半退休[RCer](http://robocon.org.cn/)，目前在[极佳世界](https://gigaai.cc/)担任机器人软件实习生。致力于机器人控制系统开发。
+人工智能专业大三在读，半退休 RCer，目前在极佳视界担任嵌入式软件实习生。致力于机器人控制系统开发。
 </details>
 
 ## 🛠️ Technical Stack
