@@ -6,9 +6,9 @@ A junior student majoring in Artificial Intelligence, currently interning as an 
 
 ## 🛠️ Technical Stack / 技术栈
 
-<table border="0" cellspacing="14" cellpadding="8" style="border-collapse:separate; border-spacing:14px 10px;">
+<table>
 	<tr>
-		<td width="48%" valign="top" style="border:none;">
+		<td width="50%" valign="top">
 			<strong>Programming Languages / 编程语言</strong><br>
 			<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C/C++"></a>
 			<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"></a>
@@ -24,8 +24,7 @@ A junior student majoring in Artificial Intelligence, currently interning as an 
 			<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-333333?style=flat&amp;logo=git" alt="Git"></a>
 			<a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown"></a>
 		</td>
-		<td width="4%" style="border:none;"></td>
-		<td width="48%" valign="top" style="border:none;">
+		<td width="50%" valign="top">
 			<strong>Embedded Systems / 嵌入式系统</strong><br>
 			<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32.html"><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&amp;logo=stmicroelectronics&amp;logoColor=white" alt="STM32"></a>
 			<a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&amp;logo=espressif&amp;logoColor=white" alt="ESP32"></a>
@@ -49,8 +48,14 @@ A junior student majoring in Artificial Intelligence, currently interning as an 
 
 ## 📊 GitHub Stats / GitHub统计
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pqxiao&show_icons=true&theme=radical&width=400)](https://github.com/pqxiao)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pqxiao&layout=compact&theme=radical&width=250)](https://github.com/pqxiao)
+<p align="center">
+	<a href="https://github.com/pqxiao">
+		<img src="https://github-readme-stats.vercel.app/api?username=pqxiao&show_icons=true&theme=radical&rank_icon=github" width="49%" height="195" alt="GitHub Stats" />
+	</a>
+	<a href="https://github.com/pqxiao">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pqxiao&theme=radical" width="49%" height="195" alt="Top Languages" />
+	</a>
+</p>
 
 ## 📫 Contact Me / 联系方式
 
