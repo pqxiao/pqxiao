@@ -65,8 +65,6 @@ NCU Robocon 2024 排球挑战赛下位机代码，包含底盘控制与 Delta �
 ## 📊 GitHub Stats
 
 <a href="https://github.com/pqxiao/github-stats">
-	<img src="https://raw.githubusercontent.com/pqxiao/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-	<img src="https://raw.githubusercontent.com/pqxiao/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 	<img src="https://raw.githubusercontent.com/pqxiao/github-stats/master/generated/overview.svg#gh-light-mode-only" />
 	<img src="https://raw.githubusercontent.com/pqxiao/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </a>
