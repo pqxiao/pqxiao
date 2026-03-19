@@ -1,11 +1,17 @@
 # Hi , I'm Daniel
 
+<p align="center">
+	<a href="https://pqxiao.github.io">
+		<img src="https://img.shields.io/badge/my%20personal%20homepage-Visit-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal Homepage" />
+	</a>
+</p>
+
 A third-year Artificial Intelligence student and semi-retired [RCer](http://robocon.org.cn/), currently working as an robotics software  intern at [GigaAI](https://gigaai.cc/). Focused on developing robot control systems.
 
 <details>
 <summary><strong>Chinese Version (Click to expand)</strong></summary>
 <br>
-人工智能专业大三在读，半退休 RCer，目前在极佳视界担任嵌入式软件实习生。致力于机器人控制系统开发。
+人工智能专业大三在读，半退休 RCer，目前在极佳视界担任机器人软件实习生。致力于机器人控制系统开发。
 </details>
 
 ## 🛠️ Technical Stack
@@ -58,8 +64,12 @@ NCU Robocon 2024 排球挑战赛下位机代码，包含底盘控制与 Delta �
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pqxiao&show_icons=true&theme=radical&rank_icon=github)](https://github.com/pqxiao)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pqxiao&theme=radical)](https://github.com/pqxiao)
+<a href="https://github.com/pqxiao/github-stats">
+	<img src="https://raw.githubusercontent.com/pqxiao/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+	<img src="https://raw.githubusercontent.com/pqxiao/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+	<img src="https://raw.githubusercontent.com/pqxiao/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+	<img src="https://raw.githubusercontent.com/pqxiao/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
 ## 📫 Contact Me
 
