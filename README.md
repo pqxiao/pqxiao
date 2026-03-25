@@ -22,7 +22,6 @@ A third-year Artificial Intelligence student and semi-retired [RCer](http://robo
 			<strong>Programming Languages</strong><br>
 			<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C/C++"></a>
 			<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"></a>
-			<a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB"></a>
 			<br><br>
 			<strong>Robotics</strong><br>
 			<a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&amp;logo=ros&amp;logoColor=white" alt="ROS"></a>
@@ -33,6 +32,7 @@ A third-year Artificial Intelligence student and semi-retired [RCer](http://robo
 			<strong>Additional Tools</strong><br>
 			<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-333333?style=flat&amp;logo=git" alt="Git"></a>
 			<a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown"></a>
+			<a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB"></a>
 		</td>
 		<td width="50%" valign="top">
 			<strong>Embedded Systems</strong><br>
