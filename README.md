@@ -6,12 +6,12 @@
 	</a>
 </p>
 
-A third-year Artificial Intelligence student and semi-retired [RCer](http://robocon.org.cn/), currently working as an robotics software  intern at [GigaAI](https://gigaai.cc/). Focused on developing robot control systems.
+A third-year Artificial Intelligence student and [RCer](http://robocon.org.cn/), currently working as an robotics software  intern at [GigaAI](https://gigaai.cc/). Focused on developing robot control systems.
 
 <details>
 <summary><strong>Chinese Version (Click to expand)</strong></summary>
 <br>
-人工智能专业大三在读，半退休 RCer，目前在极佳视界担任机器人软件实习生。致力于机器人控制系统开发。
+人工智能专业大三在读，Robocon参赛队员，目前在极佳视界担任机器人软件实习生。致力于机器人控制系统开发。
 </details>
 
 ## 🛠️ Technical Stack
